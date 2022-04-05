@@ -1,7 +1,7 @@
 console.log(`trabalhando com condicionais`);
 
 const listaDeDestinos = new Array(
-    `Salavador`,
+    `Salvador`,
     `São Paulo`,
     `Rio de Janeiro`,
     `Curitiba`,
